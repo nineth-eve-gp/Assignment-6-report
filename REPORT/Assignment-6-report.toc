@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}ACKNOWLEDGMENTS}{2}
+\contentsline {section}{\numberline {2}INTRODUCTION}{4}
+\contentsline {subsection}{\numberline {2.1}Objectives}{4}
+\contentsline {subsection}{\numberline {2.2}Scope}{5}
+\contentsline {subsection}{\numberline {2.3}Limitations}{5}
+\contentsline {section}{\numberline {3}Summary of findings}{5}
+\contentsline {subsection}{\numberline {3.1}Description of the Process}{5}
+\contentsline {section}{\numberline {4}MAIN REPORT}{6}
+\contentsline {subsection}{\numberline {4.1}Registration}{6}
+\contentsline {subsection}{\numberline {4.2}Calculations}{6}
+\contentsline {subsection}{\numberline {4.3}Communication}{6}
+\contentsline {section}{\numberline {5}CONCLUSION}{7}
